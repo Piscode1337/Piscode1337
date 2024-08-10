@@ -3,7 +3,6 @@
 - 🌱 I’m currently exploring C, PHP, Java, JavaScript, and Python
 - 📫 You may contact me
       @Facebook: https://www.facebook.com/richard.piscos
-      @Discord: .Sterben#0089 (254987521199570944)
 
 <!---
 Piscode1337/Piscode1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
